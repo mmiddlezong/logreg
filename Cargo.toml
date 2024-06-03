@@ -1,0 +1,9 @@
+[package]
+name = "logreg"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.15"
+ndarray-rand = "0.13"
+rand = "0.8"
